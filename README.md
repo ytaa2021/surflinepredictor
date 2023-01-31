@@ -8,7 +8,7 @@
 
 ### Section 1: Introduction
 
-The current surf forecasting system provided by Surfline only offers limited information on swell height, tide, wind, and a simple rating of poor, fair, good, or something in between. This doesn't accurately reflect the complexities of conditions that impact a surfer's experience at a specific spot. The proposed project aims to revolutionize the way surfers approach their sessions by providing them with personalized surf forecasting tools that incorporate advanced Explainable AI techniques and real surf forecaster's reports.
+The current surf forecasting system provided by Surfline only offers limited information on swell (height, direction, and period), tide, wind, and a simple rating of poor, fair, good, or something in between. This doesn't accurately reflect the complexities of conditions that impact a surfer's experience at a specific spot. The proposed project aims to revolutionize the way surfers approach their sessions by providing them with personalized surf forecasting tools that incorporate advanced Explainable AI techniques and real surf forecaster's reports.
 
 ### Section 2: The Need for Personalized Surf Forecasting
 
