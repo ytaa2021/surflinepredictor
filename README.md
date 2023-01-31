@@ -12,7 +12,7 @@ The current surf forecasting system provided by Surfline only offers limited inf
 
 ### Section 2: The Need for Personalized Surf Forecasting
 
-Everyone's ideal surf conditions are different and vary depending on skill level, board choice, and personal preferences. While some may find perfect conditions in large waves and strong winds, others may prefer smaller, cleaner waves. Understanding what the waves will be like, and who they are for, past just wave heights and a simple rating, as well as what is causing them to be the way they are, are the core concepts of this project. This is why the proposed project aims to deliver a more comprehensive understanding of surf conditions that is tailored to each surfer's unique preferences and needs.
+Everyone's ideal surf conditions are different and vary depending on skill level, board choice, and personal preferences. While some may find perfect conditions in large but slopey waves, others may prefer slightly smaller, punchier waves. Understanding what the waves will be like, and who they are for, past just wave heights and a simple rating, as well as what is causing them to be the way they are, are the core concepts of this project. This is why the proposed project aims to deliver a more comprehensive understanding of surf conditions that is tailored to each surfer's unique preferences and needs.
 
 ### Section 3: Our Proposed Solution
 
