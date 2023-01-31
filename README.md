@@ -14,7 +14,7 @@ The current surf forecasting system provided by Surfline only offers limited inf
 
 Everyone's ideal surf conditions are different and vary depending on skill level, board choice, and personal preferences. While some may find perfect conditions in large but slopey waves, others may prefer slightly smaller, punchier waves. Understanding what the waves will be like, and who they are for, past just wave heights and a simple rating, as well as what is causing them to be the way they are, are the core concepts of this project. This is why the proposed project aims to deliver a more comprehensive understanding of surf conditions that is tailored to each surfer's unique preferences and needs.
 
-### Section 3: Our Proposed Solution
+### Section 3: Proposed Solution
 
 The proposed solution incorporates additional factors, such as sandbar changes, skill level of the surfer, and specific wave characteristics, into the surf forecasting system. The interactive web-based tool, which will be developed using Explainable AI, will provide surfers with a visual and easy to use interface for exploring and understanding the conditions and reasons behind them. The tool will also incorporate real surf forecasters' reports to determine the wave specifics not reflected in Surfline's reports, providing a more in-depth understanding of the conditions.
 
