@@ -16,7 +16,7 @@ Everyone's ideal surf conditions are different and vary depending on skill level
 
 ### Section 3: Proposed Solution
 
-The proposed solution incorporates additional factors, such as sandbar changes, skill level of the surfer, and specific wave characteristics, into the surf forecasting system. The interactive web-based tool, which will be developed using Explainable AI, will provide surfers with a visual and easy to use interface for exploring and understanding the conditions and reasons behind them. The tool will also incorporate real surf forecasters' reports to determine the wave specifics not reflected in Surfline's reports, providing a more in-depth understanding of the conditions.
+The proposed solution incorporates additional factors, such as sandbar changes, skill level of the surfer, the Surfline forecaster's textual descriptions, and specific wave characteristics, into the surf forecasting system. The interactive web-based tool, which will be developed using Explainable AI, will provide surfers with a visual and easy to use interface for exploring and understanding the conditions and reasons behind them. The tool will also incorporate real surf forecasters' reports to determine the wave specifics not reflected in Surfline's reports, providing a more in-depth understanding of the conditions.
 
 ### Section 4: Benefits to Surfers
 
