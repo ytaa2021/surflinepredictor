@@ -28,3 +28,8 @@ The development process of the interactive web-based tool will involve integrati
 
 The proposed project offers a solution to the limitations of Surfline's current surf forecasting system by providing surfers with a personalized and comprehensive understanding of surf conditions. The advanced surf forecasting tools will enhance the surfing experience for surfers of all skill levels, bringing new insights and understanding to the sport. We invite surfers to try out the new system and experience the difference for themselves.
 
+## Goals
+1. Incorporate real surf forecaster's reports and other readily available data to provide more specific insight into surf conditions and cater them to the right audience.
+2. Implement Explainable AI to provide explanations for the specific conditions and catering.
+3. Develop an interactive web-based tool for surfers to access personalized surf forecasts.
+4. Design and implement a user-friendly interface for surfers to explore and understand surf conditions.
